@@ -1,0 +1,3 @@
+numero=a44615
+amigos=a44619,a24027,a42921,a45415
+fim
